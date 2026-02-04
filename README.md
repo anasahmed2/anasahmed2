@@ -1,8 +1,6 @@
 # Hi there, I'm Anas Ahmed! 👋
 
-[cite_start]I am a **Computer Science** student at the **University of British Columbia**[cite: 1, 5, 6]. I have a passion for full-stack development, embedded systems, and data science.
-
-[cite_start]Currently, I am an **Incoming Summer Technology Analyst at Morgan Stanley** (Summer 2026)[cite: 10, 11].
+I am a **Computer Science** student at the **University of British Columbia**. I have a passion for full-stack development, embedded systems, and data science.
 
 ---
 
@@ -35,17 +33,9 @@
 
 ### 🔭 Experience & Projects
 
-* [cite_start]**Morgan Stanley:** Incoming Summer Technology Analyst[cite: 10, 11].
-* [cite_start]**Atlas Power Technologies:** Built full-stack systems with C# and .NET; reduced latency to <20ms[cite: 12, 13, 19].
-* [cite_start]**UBC SAE Aero Design:** Developed autonomous payload-capture systems using Python, OpenCV, and YOLO models[cite: 24, 26, 27].
-* [cite_start]**Exercise Form Tracker:** Created a full-stack Flask/React app with MediaPipe for 95% accurate motion tracking[cite: 35, 38].
-
----
-
-### 📊 GitHub Stats
-
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasahmed2&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasahmed2&layout=compact&theme=radical)
+**Atlas Power Technologies:** Built full-stack systems with C# and .NET; reduced latency to <20ms[cite: 12, 13, 19].
+**UBC SAE Aero Design:** Developed autonomous payload-capture systems using Python, OpenCV, and YOLO models[cite: 24, 26, 27].
+**Exercise Form Tracker:** Created a full-stack Flask/React app with MediaPipe for 95% accurate motion tracking[cite: 35, 38].
 
 ---
 
