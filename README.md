@@ -33,9 +33,9 @@ I am a **Computer Science** student at the **University of British Columbia**. I
 
 ### 🔭 Experience & Projects
 
-**Atlas Power Technologies:** Built full-stack systems with C# and .NET; reduced latency to <20ms[cite: 12, 13, 19].
-**UBC SAE Aero Design:** Developed autonomous payload-capture systems using Python, OpenCV, and YOLO models[cite: 24, 26, 27].
-**Exercise Form Tracker:** Created a full-stack Flask/React app with MediaPipe for 95% accurate motion tracking[cite: 35, 38].
+**Atlas Power Technologies:** Built full-stack systems with C# and .NET; reduced latency to <20ms.
+**UBC SAE Aero Design:** Developed autonomous payload-capture systems using Python, OpenCV, and YOLO models.
+**Exercise Form Tracker:** Created a full-stack Flask/React app with MediaPipe for 95% accurate motion tracking.
 
 ---
 
